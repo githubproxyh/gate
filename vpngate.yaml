@@ -892,7 +892,7 @@ proxies:
       ech-opts:
         enable: true
         query-server-name: cloudflare-ech.com
-      - name: "官方 | 162.159.198.2 | 8095 | MASQUE导航"
+  - name: "官方 | 162.159.198.2 | 8095 | MASQUE导航"
     type: masque
     server: 162.159.198.2
     port: 8095
