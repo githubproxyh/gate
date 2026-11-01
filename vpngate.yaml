@@ -876,20 +876,3 @@ proxies:
       ech-opts:
         enable: true
         query-server-name: cloudflare-ech.com
-    - name: "[A利群]SG \U0001F1F8\U0001F1EC 20"
-      type: vless
-      server: 172.64.154.153
-      port: 443
-      client-fingerprint: chrome
-      tls: true
-      servername: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
-      network: ws
-      ws-opts:
-        headers:
-            Host: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
-        path: /?ed=2560
-      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
-      ech-opts:
-        enable: true
-        query-server-name: cloudflare-ech.com
-
