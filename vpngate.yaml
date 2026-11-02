@@ -30,7 +30,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | cookiebot.com'
       type: vless
-      server: cookiebot.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -46,7 +46,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | nexusmods.com'
       type: vless
-      server: nexusmods.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -62,7 +62,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | bluehost.com'
       type: vless
-      server: bluehost.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -78,7 +78,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | glassdoor.com'
       type: vless
-      server: glassdoor.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -94,7 +94,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | jimdo.com'
       type: vless
-      server: jimdo.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -110,7 +110,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | mfa.gov.ua'
       type: vless
-      server: mfa.gov.ua
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -126,7 +126,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | sage.com'
       type: vless
-      server: sage.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -142,7 +142,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | staticdelivery.nexusmods.com'
       type: vless
-      server: staticdelivery.nexusmods.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -158,7 +158,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | store.ubi.com'
       type: vless
-      server: store.ubi.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -174,7 +174,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | www.speedtest.net'
       type: vless
-      server: www.speedtest.net
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -190,7 +190,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | investor.apple.com'
       type: vless
-      server: investor.apple.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -206,7 +206,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | markmonitor.com'
       type: vless
-      server: markmonitor.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -222,7 +222,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | store.epicgames.com'
       type: vless
-      server: store.epicgames.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -238,7 +238,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | mycareer.verizon.com'
       type: vless
-      server: mycareer.verizon.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -254,7 +254,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | onetrust.com'
       type: vless
-      server: onetrust.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -270,7 +270,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | www.visa.com'
       type: vless
-      server: www.visa.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -286,7 +286,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | www.tpg.com'
       type: vless
-      server: www.tpg.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -302,7 +302,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | www.wilshire.com'
       type: vless
-      server: www.wilshire.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -318,7 +318,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | cloudflare-eth.com'
       type: vless
-      server: cloudflare-eth.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -334,7 +334,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | cloudflare.dev'
       type: vless
-      server: cloudflare.dev
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -350,7 +350,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | cloudflare.net'
       type: vless
-      server: cloudflare.net
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -366,7 +366,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | r2.dev'
       type: vless
-      server: r2.dev
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -382,7 +382,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | pages.dev'
       type: vless
-      server: pages.dev
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -398,7 +398,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | cdnjs.com'
       type: vless
-      server: cdnjs.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -414,7 +414,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | cloudflare-ech.com'
       type: vless
-      server: cloudflare-ech.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -430,7 +430,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | skk.moe'
       type: vless
-      server: skk.moe
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
