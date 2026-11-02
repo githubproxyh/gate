@@ -892,3 +892,721 @@ proxies:
       ech-opts:
         enable: true
         query-server-name: cloudflare-ech.com
+    - name: "\U0001F3C5利群公益\U0001F3C5TG:@liqunchannel"
+      type: direct
+    - name: 直连|双栈
+      type: direct
+    - ip-version: ipv4-prefer
+      name: 直连|IPv4优先
+      type: direct
+    - ip-version: ipv6-prefer
+      name: 直连|IPv6优先
+      type: direct
+    - ip-version: ipv4
+      name: 直连|仅IPv4
+      type: direct
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC"
+      type: vless
+      server: 172.64.156.4
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 2"
+      type: vless
+      server: 172.64.158.20
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 3"
+      type: vless
+      server: 172.64.159.118
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 4"
+      type: vless
+      server: 172.64.152.209
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 5"
+      type: vless
+      server: 172.64.154.87
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 6"
+      type: vless
+      server: 172.64.146.89
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 7"
+      type: vless
+      server: 104.18.33.171
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 8"
+      type: vless
+      server: 104.18.44.246
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 9"
+      type: vless
+      server: 172.64.157.70
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 10"
+      type: vless
+      server: 104.18.37.253
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 11"
+      type: vless
+      server: 172.64.148.186
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 12"
+      type: vless
+      server: 172.64.147.57
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 13"
+      type: vless
+      server: 104.18.42.109
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 14"
+      type: vless
+      server: 172.64.149.153
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 15"
+      type: vless
+      server: 172.64.153.77
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 16"
+      type: vless
+      server: 104.18.34.53
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 17"
+      type: vless
+      server: 172.64.151.193
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 18"
+      type: vless
+      server: 104.18.46.57
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 19"
+      type: vless
+      server: 172.64.145.43
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "[A利群]SG \U0001F1F8\U0001F1EC 20"
+      type: vless
+      server: 172.64.144.65
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | shopify.com'
+      type: vless
+      server: shopify.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | cookiebot.com'
+      type: vless
+      server: cookiebot.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | nexusmods.com'
+      type: vless
+      server: nexusmods.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | bluehost.com'
+      type: vless
+      server: bluehost.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | glassdoor.com'
+      type: vless
+      server: glassdoor.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | jimdo.com'
+      type: vless
+      server: jimdo.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | mfa.gov.ua'
+      type: vless
+      server: mfa.gov.ua
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | sage.com'
+      type: vless
+      server: sage.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | staticdelivery.nexusmods.com'
+      type: vless
+      server: staticdelivery.nexusmods.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | store.ubi.com'
+      type: vless
+      server: store.ubi.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | www.speedtest.net'
+      type: vless
+      server: www.speedtest.net
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | investor.apple.com'
+      type: vless
+      server: investor.apple.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | markmonitor.com'
+      type: vless
+      server: markmonitor.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | store.epicgames.com'
+      type: vless
+      server: store.epicgames.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | mycareer.verizon.com'
+      type: vless
+      server: mycareer.verizon.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | onetrust.com'
+      type: vless
+      server: onetrust.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | www.visa.com'
+      type: vless
+      server: www.visa.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | www.tpg.com'
+      type: vless
+      server: www.tpg.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | www.wilshire.com'
+      type: vless
+      server: www.wilshire.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | cloudflare-eth.com'
+      type: vless
+      server: cloudflare-eth.com
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | cloudflare.dev'
+      type: vless
+      server: cloudflare.dev
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | cloudflare.net'
+      type: vless
+      server: cloudflare.net
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | r2.dev'
+      type: vless
+      server: r2.dev
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: '[A利群]优选 | pages.dev'
+      type: vless
+      server: pages.dev
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+
