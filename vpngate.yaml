@@ -479,6 +479,86 @@ proxies:
       ech-opts:
         enable: true
         query-server-name: cloudflare-ech.com
+    - name: "🇭🇰香港31"
+      type: vless
+      server: 101.69.181.108
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc2-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "🇭🇰香港32"
+      type: vless
+      server: 101.69.181.108
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc3-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "🇭🇰香港33"
+      type: vless
+      server: 101.69.181.108
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc4-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "🇭🇰香港34"
+      type: vless
+      server: 101.69.181.108
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc5-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
+    - name: "🇭🇰香港35"
+      type: vless
+      server: 101.69.181.108
+      port: 443
+      client-fingerprint: chrome
+      tls: true
+      servername: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+      network: ws
+      ws-opts:
+        headers:
+            Host: cffc6-ch-node-1spn4ifvjwgzea9d.lancelot.indevs.in
+        path: /?ed=2560
+      uuid: cf92529d-9c4a-4d71-ab87-ae784a2da6bb
+      ech-opts:
+        enable: true
+        query-server-name: cloudflare-ech.com
 
 
 
