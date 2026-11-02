@@ -401,7 +401,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "🇭🇰香港26"
       type: vless
-      server: worldhosts.eu.org
+      server: 124.156.239.218
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -417,7 +417,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "🇭🇰香港27"
       type: vless
-      server: worldhosts.eu.org
+      server: 124.156.239.218
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -433,7 +433,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "🇭🇰香港28"
       type: vless
-      server: worldhosts.eu.org
+      server: 124.156.239.218
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -449,7 +449,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "🇭🇰香港29"
       type: vless
-      server: worldhosts.eu.org
+      server: 124.156.239.218
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -465,7 +465,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "🇭🇰香港30"
       type: vless
-      server: worldhosts.eu.org
+      server: 124.156.239.218
       port: 443
       client-fingerprint: chrome
       tls: true
