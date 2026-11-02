@@ -830,7 +830,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 17"
       type: vless
-      server: 172.64.150.241
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -846,7 +846,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 18"
       type: vless
-      server: 172.64.151.154
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -862,7 +862,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 19"
       type: vless
-      server: 172.64.155.48
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -878,7 +878,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 20"
       type: vless
-      server: 172.64.147.67
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -923,7 +923,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 2"
       type: vless
-      server: 172.64.158.20
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -939,7 +939,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 3"
       type: vless
-      server: 172.64.159.118
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -955,7 +955,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 4"
       type: vless
-      server: 172.64.152.209
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -971,7 +971,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 5"
       type: vless
-      server: 172.64.154.87
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -987,7 +987,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 6"
       type: vless
-      server: 172.64.146.89
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -1003,7 +1003,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 7"
       type: vless
-      server: 104.18.33.171
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -1035,7 +1035,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 9"
       type: vless
-      server: 172.64.157.70
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -1067,7 +1067,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 11"
       type: vless
-      server: 172.64.148.186
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -1099,7 +1099,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 13"
       type: vless
-      server: 104.18.42.109
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -1131,7 +1131,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 15"
       type: vless
-      server: 172.64.153.77
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -1163,7 +1163,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 17"
       type: vless
-      server: 172.64.151.193
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -1195,7 +1195,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: "[A利群]SG \U0001F1F8\U0001F1EC 19"
       type: vless
-      server: 172.64.145.43
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -1227,7 +1227,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | shopify.com'
       type: vless
-      server: shopify.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -1291,7 +1291,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | glassdoor.com'
       type: vless
-      server: glassdoor.com
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
@@ -1323,7 +1323,7 @@ proxies:
         query-server-name: cloudflare-ech.com
     - name: '[A利群]优选 | mfa.gov.ua'
       type: vless
-      server: mfa.gov.ua
+      server: 43.168.16.67
       port: 443
       client-fingerprint: chrome
       tls: true
