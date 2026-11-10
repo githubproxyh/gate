@@ -54,6 +54,285 @@ proxies:
   - {name: 🇭🇰香港53, server: 207.57.123.31, port: 443, type: vless, uuid: e3e04978-016d-4ffb-85e3-9cceb6079922, tls: true, skip-cert-verify: false, servername: cffc4-ch-node-qf83x5jwvkhmzedl.lancelot.indevs.in, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: cffc4-ch-node-qf83x5jwvkhmzedl.lancelot.indevs.in}}, udp: true, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
   - {name: 🇭🇰香港54, server: 207.57.123.31, port: 443, type: vless, uuid: e3e04978-016d-4ffb-85e3-9cceb6079922, tls: true, skip-cert-verify: false, servername: cffc5-ch-node-qf83x5jwvkhmzedl.lancelot.indevs.in, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: cffc5-ch-node-qf83x5jwvkhmzedl.lancelot.indevs.in}}, udp: true, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
   - {name: 🇭🇰香港55, server: 207.57.123.31, port: 443, type: vless, uuid: e3e04978-016d-4ffb-85e3-9cceb6079922, tls: true, skip-cert-verify: false, servername: cffc6-ch-node-qf83x5jwvkhmzedl.lancelot.indevs.in, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: cffc6-ch-node-qf83x5jwvkhmzedl.lancelot.indevs.in}}, udp: true, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-
+- name: lx-us1
+  type: vless
+  server: 194.104.147.253
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us1.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us1.777096.xyz
+    path: /liangxin/us
+- name: lx-us2
+  type: vless
+  server: 194.104.147.253
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us2.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us2.777096.xyz
+    path: /liangxin/us
+- name: lx-us3
+  type: vless
+  server: 194.104.147.253
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us3.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us3.777096.xyz
+    path: /liangxin/us
+- name: lx-us4
+  type: vless
+  server: 194.104.147.253
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us4.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us4.777096.xyz
+    path: /liangxin/us
+- name: lx-us5
+  type: vless
+  server: 194.104.147.253
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us5.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us5.777096.xyz
+    path: /liangxin/us
+- name: 🇧🇩lx-us1
+  type: vless
+  server: 193.134.211.132
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us1.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us1.777096.xyz
+    path: /liangxin/us
+- name: 🇧🇩lx-us2
+  type: vless
+  server: 193.134.211.132
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us2.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us2.777096.xyz
+    path: /liangxin/us
+- name: 🇧🇩lx-us3
+  type: vless
+  server: 193.134.211.132
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us3.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us3.777096.xyz
+    path: /liangxin/us
+- name: 🇧🇩lx-us4
+  type: vless
+  server: 193.134.211.132
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us4.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us4.777096.xyz
+    path: /liangxin/us
+- name: 🇧🇩lx-us5
+  type: vless
+  server: 193.134.211.132
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us5.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us5.777096.xyz
+    path: /liangxin/us
+- name: 🇳🇱lx-us1
+  type: vless
+  server: 207.57.123.31
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us1.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us1.777096.xyz
+    path: /liangxin/us
+- name: 🇳🇱lx-us2
+  type: vless
+  server: 207.57.123.31
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us2.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us2.777096.xyz
+    path: /liangxin/us
+- name: 🇳🇱lx-us3
+  type: vless
+  server: 207.57.123.31
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us3.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us3.777096.xyz
+    path: /liangxin/us
+- name: 🇳🇱lx-us4
+  type: vless
+  server: 207.57.123.31
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us4.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us4.777096.xyz
+    path: /liangxin/us
+- name: 🇳🇱lx-us5
+  type: vless
+  server: 207.57.123.31
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us5.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us5.777096.xyz
+    path: /liangxin/us
+- name: 🇷🇺lx-us1
+  type: vless
+  server: 121.199.35.28
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us1.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us1.777096.xyz
+    path: /liangxin/us
+- name: 🇷🇺lx-us2
+  type: vless
+  server: 121.199.35.28
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us2.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us2.777096.xyz
+    path: /liangxin/us
+- name: 🇷🇺lx-us3
+  type: vless
+  server: 121.199.35.28
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us3.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us3.777096.xyz
+    path: /liangxin/us
+- name: 🇷🇺lx-us4
+  type: vless
+  server: 121.199.35.28
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us4.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us4.777096.xyz
+    path: /liangxin/us
+- name: 🇷🇺lx-us5
+  type: vless
+  server: 121.199.35.28
+  port: 443
+  uuid: 4d962be7-e157-464f-a9d4-d9f225100cc8
+  tls: true
+  servername: lx-us5.777096.xyz
+  client-fingerprint: chrome
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    headers:
+      Host: lx-us5.777096.xyz
+    path: /liangxin/us
 
 
